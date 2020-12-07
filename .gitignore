@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Git related files
+!.gitignore
+
+# Vim files
+!.vimrc
+
+# Tmux files
+!.tmux.conf
