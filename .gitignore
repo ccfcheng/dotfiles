@@ -9,3 +9,6 @@
 
 # Tmux files
 !.tmux.conf
+
+# Aliases file
+!.aliases
