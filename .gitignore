@@ -12,3 +12,7 @@
 
 # Aliases file
 !.aliases
+
+# Bash related files
+!.bashrc
+!git-completion.bash

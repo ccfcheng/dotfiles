@@ -6,3 +6,10 @@ alias login-vault="vault login -method=oidc -path=okta"
 
 # Get latest git master state
 alias gitref="git fetch --tags origin && git checkout master && git reset --hard origin/master"
+
+# Reload bash configs
+alias reload="source ~/.bashrc"
+
+# ls commands
+alias la="ls -A"
+alias ll="ls -Al"
